@@ -7,26 +7,11 @@ int main()
   }
   return 0;
 }
-Hello School 
-Hello School
-Hello School 
-Hello School
-Hello School 
-Hello School
-Hello School
-Hello School
-Hello School
-Hello School
-Hello School
-Hello School 
-Hello School
-Hello School
-Hello School
-Hello School 
-Hello School
-Hello School
-Hello School
-Hello School
-Hello School
-Hello School 
-Hello School 
+Hello School Hello School Hello School 
+Hello School Hello School Hello School
+Hello School Hello School Hello School
+Hello School Hello School Hello School 
+Hello School Hello School Hello School
+Hello School Hello School Hello School
+Hello School Hello School Hello School
+Hello School Hello School 
